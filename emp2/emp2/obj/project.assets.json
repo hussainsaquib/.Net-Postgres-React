@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saquib Hussain\\source\\repos\\emp2\\emp2\\emp2.csproj",
+      "projectUniqueName": "C:\\Users\\Saquib Hussain\\Documents\\GitHub\\.Net-Postgres-React\\emp2\\emp2\\emp2.csproj",
       "projectName": "emp2",
-      "projectPath": "C:\\Users\\Saquib Hussain\\source\\repos\\emp2\\emp2\\emp2.csproj",
+      "projectPath": "C:\\Users\\Saquib Hussain\\Documents\\GitHub\\.Net-Postgres-React\\emp2\\emp2\\emp2.csproj",
       "packagesPath": "C:\\Users\\Saquib Hussain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saquib Hussain\\source\\repos\\emp2\\emp2\\obj\\",
+      "outputPath": "C:\\Users\\Saquib Hussain\\Documents\\GitHub\\.Net-Postgres-React\\emp2\\emp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
